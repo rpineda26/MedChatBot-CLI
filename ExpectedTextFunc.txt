@@ -1,0 +1,91 @@
+MENU #1 User Type
+
+D for Doctor
+P for Patient
+E for Exit
+*************
+isValidLimit
+*************
+Invalid Input. Try Again.
+Invalid Input. Try Again.
+5   5
+*************
+isValidGender
+*************
+1  female  She
+1  male  He
+Invalid Input. Try Again.
+*************
+isValidAnswer
+*************
+Returns :1, nWords: 1 
+Returns :1, nWords: 0 
+Invalid Input. Try Again.
+Returns :0, nWords: 0 
+************* 
+absValue
+************* 
+999
+0
+1000
+************* 
+compareString 
+************* 
+0
+242 
+0 
+************* 
+stringChoice 
+************* 
+Dengue 
+Nausea 
+Flu 
+*************
+searchString
+*************
+-1
+-1
+1
+************* 
+sortImpRank
+************* 
+Returned Value: 0
+0.00  0.00  0.00  
+Returned Value: 2
+0.33  0.25  0.00  
+Returned Value: 3
+0.50  0.33  0.20  
+*************
+lastName
+*************
+Ralph
+Pineda
+de la Cruz
+*************
+printSeparators
+*************
+ralph. 
+Ralph  and Dawson. 
+Ralph, Dawson, Gamal, and Pineda. 
+MENU #1 User Type
+
+D for Doctor
+P for Patient
+E for Exit
+
+
+MENU #2 Doctor
+
+C to Create a new list of symptoms and impressions.
+U to Use the existing list of symptoms and expressions.
+D to Display Symptoms
+M to Modify Symptoms
+E for Exit
+MENU #1 User Type
+
+D for Doctor
+P for Patient
+E for Exit
+
+
+Program Shutting Down.....
